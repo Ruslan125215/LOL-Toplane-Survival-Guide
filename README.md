@@ -12,3 +12,11 @@ This guide provides practical advice for surviving difficult matchups, improving
 - Maintain good CS numbers
 - Control waves effectively
 - Impact the game after lane phase
+
+## Core Principles
+
+*Junglers are not always available to help.*
+
+**Wave management** is one of the most important skills for top lane players.
+
+~~Teemo is a fair and balanced champion.~~
