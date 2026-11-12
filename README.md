@@ -51,3 +51,9 @@ This guide provides practical advice for surviving difficult matchups, improving
 - [x] Buy Control Wards
 - [ ] Reach Diamond rank
 - [ ] Reach Challenger rank
+
+## Useful Resources
+
+- [League of Legends Official Website](https://www.leagueoflegends.com/)
+- [OP.GG](https://www.op.gg/)
+- [U.GG](https://u.gg/)
