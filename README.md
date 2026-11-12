@@ -59,7 +59,6 @@ This guide provides practical advice for surviving difficult matchups, improving
 - [U.GG](https://u.gg/)
 
 ## My Main Champion
-
 ![Olaf](images1/OIP1.webp)
 
 ## Damage Calculator
