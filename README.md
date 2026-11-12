@@ -60,6 +60,6 @@ This guide provides practical advice for surviving difficult matchups, improving
 
 ## My Main Champion
 
-![Olaf](images/Oip.webp)
+![Olaf](images/OIP.webp)
 
 
