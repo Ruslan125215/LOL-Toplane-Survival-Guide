@@ -57,3 +57,9 @@ This guide provides practical advice for surviving difficult matchups, improving
 - [League of Legends Official Website](https://www.leagueoflegends.com/)
 - [OP.GG](https://www.op.gg/)
 - [U.GG](https://u.gg/)
+
+## My Main Champion
+
+![Olaf](images/Oip.webp)
+
+
