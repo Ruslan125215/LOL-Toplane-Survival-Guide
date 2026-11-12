@@ -81,6 +81,13 @@ print(trade_result(1200, 800))
 | Olaf | Medium | High | High | Medium |
 | Fiora | Hard | High | Medium | Very High |
 
+## LP Formula
+
+```math
+LP = WinRate \times GamesPlayed
+
+```markdown ## Strategy Flowchart ```mermaid flowchart TD A[Champion Select] --> B[Farm Minions] B --> C[Manage Waves] C --> D[Win Trades] D --> E[Take Tower] E --> F[Group or Split Push] F --> G[W
+
 
 
 
