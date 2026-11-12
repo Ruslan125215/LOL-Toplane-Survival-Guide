@@ -62,5 +62,18 @@ This guide provides practical advice for surviving difficult matchups, improving
 
 ![Olaf](OIP.webp)
 
+## Damage Calculator
+
+```python
+def trade_result(my_hp, enemy_hp):
+    if my_hp > enemy_hp:
+        return "Take the fight"
+    return "Back away"
+
+print(trade_result(1200, 800))
+```
+
+
+
 
 
