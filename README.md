@@ -19,4 +19,27 @@ This guide provides practical advice for surviving difficult matchups, improving
 
 **Wave management** is one of the most important skills for top lane players.
 
-~~Teemo is a fair and balanced champion.~~
+~~Vayne is a fair and balanced champion.~~
+
+### Essential Skills
+
+- Last hitting
+- Trading efficiently
+- Vision control
+- Teleport usage
+- Split pushing
+
+## Recommended Champions
+
+### Beginner Friendly
+
+- Garen
+- Malphite
+- Mordekaiser
+
+### Advanced Picks
+
+- Aatrox
+- Camille
+- Fiora
+- Riven
