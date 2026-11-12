@@ -60,7 +60,7 @@ This guide provides practical advice for surviving difficult matchups, improving
 
 ## My Main Champion
 
-![Olaf](images1/OIP1.webp)
+![Olaf](OIP1.webp)
 
 ## Damage Calculator
 
