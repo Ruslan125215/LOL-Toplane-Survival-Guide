@@ -84,7 +84,8 @@ print(trade_result(1200, 800))
 ## LP Formula
 
 ```math
-LP = WinRate \times GamesPlayed
+LP = \text{WinRate} \times \text{GamesPlayed}
+```
 
 ```markdown ## Strategy Flowchart ```mermaid flowchart TD A[Champion Select] --> B[Farm Minions] B --> C[Manage Waves] C --> D[Win Trades] D --> E[Take Tower] E --> F[Group or Split Push] F --> G[W
 
