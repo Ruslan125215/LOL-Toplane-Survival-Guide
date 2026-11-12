@@ -73,6 +73,15 @@ def trade_result(my_hp, enemy_hp):
 print(trade_result(1200, 800))
 ```
 
+## Champion Comparison
+
+| Champion | Difficulty | Lane Power | Teamfight | Split Push |
+|----------|------------|------------|------------|------------|
+| Garen | Easy | High | Medium | Medium |
+| Darius | Medium | Very High | High | High |
+| Olaf | Medium | High | High | Medium |
+| Fiora | Hard | High | Medium | Very High |
+
 
 
 
