@@ -43,3 +43,11 @@ This guide provides practical advice for surviving difficult matchups, improving
 - Camille
 - Fiora
 - Riven
+
+## Toplane Checklist
+
+- [x] Improve farming
+- [x] Learn wave management
+- [x] Buy Control Wards
+- [ ] Reach Diamond rank
+- [ ] Reach Challenger rank
